@@ -69,7 +69,7 @@ The string is hello
 
 - `ft_str`: A helper function that takes a string as argument and return his length.
 
-See the [ft_printf.h](https://github.com/badreddinkaztaoui/ft_printf/blob/main/includes/ft_printf.h) header file for a full list of functions and their parameters.
+See the [ft_printf.h](https://https://github.com/badreddinkaztaoui/ft_printf/blob/main/ft_printf.h) header file for a full list of functions and their parameters.
 
 ## Contributing
 
