@@ -53,21 +53,23 @@ The string is hello
 
 - `ft_printf`: The main function that prints formatted text to the console or a file. It takes a format string and a variable number of arguments, and returns the number of characters printed.
 
-- `parse_flags`: A helper function that parses the format string and extracts any formatting flags, such as the minimum field width or precision.
+- `ft_printres`: A helper function that parses the format string and extracts any formatting flags, such as the minimum field width or precision.
 
-- `print_char`: A helper function that prints a single character.
+- `ft_putchar_len`: A helper function that prints a single character.
 
-- `print_string`: A helper function that prints a null-terminated string.
+- `ft_putstr_len`: A helper function that prints a null-terminated string.
 
-- `print_number`: A helper function that prints a decimal integer.
+- `ft_putnbr_len`: A helper function that prints a decimal integer.
 
-- `print_unsigned_number`: A helper function that prints an unsigned decimal integer.
+- `ft_putunbr_len`: A helper function that prints an unsigned decimal integer.
 
-- `print_hex_number`: A helper function that prints a hexadecimal integer.
+- `ft_puthexa`: A helper function that prints a hexadecimal integer.
 
-- `print_pointer`: A helper function that prints a memory address as a hexadecimal integer.
+- `ft_putadress`: A helper function that prints a memory address as a hexadecimal integer.
 
-See the [ft_printf.h](https://github.com/badreddinkaztaoui/ft_printf/blob/master/includes/ft_printf.h) header file for a full list of functions and their parameters.
+- `ft_str`: A helper function that takes a string as argument and return his length.
+
+See the [ft_printf.h](https://github.com/badreddinkaztaoui/ft_printf/blob/main/includes/ft_printf.h) header file for a full list of functions and their parameters.
 
 ## Contributing
 
