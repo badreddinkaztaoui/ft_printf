@@ -1,5 +1,3 @@
-No problem! Here's an example README for the `ft_printf` project:
-
 # ft_printf
 
 `ft_printf` is a custom implementation of the C standard library function `printf`. It allows you to format and print text to the console or a file using a variety of format specifiers.
